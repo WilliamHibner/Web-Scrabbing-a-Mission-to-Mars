@@ -1,3 +1,3 @@
-### A Web Scraping Data Project using information NASA and twitter on the planet Mars.
+### A Web Scraping Data Project using NASA and twitter data on the planet Mars.
 
 
